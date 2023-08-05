@@ -1,5 +1,5 @@
 # Salve salve 👉👈
-### Formado em Informática para internet no [IFRS](https://ifrs.edu.br/riogrande/)
+### Técnico em Informática para internet pelo [IFRS](https://ifrs.edu.br/riogrande/)
 ### Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no [IFRS](https://ifrs.edu.br/riogrande/)
 
 
