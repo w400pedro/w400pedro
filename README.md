@@ -1,4 +1,4 @@
-# Salve salve 👉👈
+# Seja bem-vindo sou o Pedro! 👋
 ## 🚀 Desenvolvedor e sócio da [Orion Tech](https://github.com/Orion-Techno)
 ### 💻 Técnico em Informática para internet pelo [IFRS](https://ifrs.edu.br/riogrande/)
 ### 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no [IFRS](https://ifrs.edu.br/riogrande/)
