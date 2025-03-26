@@ -1,5 +1,5 @@
 # Salve salve 👉👈
-## 🚀 Desenvolvedor e sócio da [BGPT](https://github.com/BGPT-Desenvolvimento-de-Aplicacoes-Web)
+## 🚀 Desenvolvedor e sócio da [Orion](https://github.com/Orion-Techno)
 ### 💻 Técnico em Informática para internet pelo [IFRS](https://ifrs.edu.br/riogrande/)
 ### 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no [IFRS](https://ifrs.edu.br/riogrande/)
 
